@@ -3,7 +3,7 @@
 
 ![Vi Github Stats](https://github-readme-stats.vercel.app/api?username=WannaBeSkid&theme=dracula&show_icons=true)
 
-![Vi Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=WannaBeSkid&layout=compact&show_icons=true&title_color=fff&icon_color=0D1117&text_color=fff&bg_color=0D1117)
+![Vi Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=WannaBeSKid&layout=compact&show_icons=true&title_color=e5658f&icon_color=81ceeb&text_color=fff&bg_color=282a36)
 
 I don't really make things open source but one of my goals for 2021 is to develop more open source stuff!
 
