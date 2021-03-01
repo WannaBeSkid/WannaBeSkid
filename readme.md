@@ -15,7 +15,7 @@ I don't really make things open source but one of my goals for 2021 is to develo
 ❌ Develop more open source programs
 ```
 
-# Socials
+## Socials
 
 ```bash
 * [Twitter](https://twitter.com/WannaBeSkid)
