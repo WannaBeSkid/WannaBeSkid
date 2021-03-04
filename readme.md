@@ -11,10 +11,10 @@ I don't really make things open source but one of my goals for 2021 is to develo
 
 ```bash
 🟧 Get CompTIA A+ Certified
-🟥  Get Linux 101 Certified
-🟥  Get Linux 102 Certified
+🟥 Get Linux 101 Certified
+🟥 Get Linux 102 Certified
 🟧 Learn More About Cyber Security / Pentesting
-🟧  Develop more open source programs
+🟧 Develop more open source programs
 ```
 
 ## Socials
